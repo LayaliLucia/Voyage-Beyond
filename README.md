@@ -4,7 +4,6 @@ A 2D pixel-art, story-driven space survival game for ages 7-12, built with **Pha
 You join a crew of astronauts, keep an outpost alive on **the Moon**, pick a landing site, then survive on **Mars**.
 Every sol you balance **oxygen, power, food and radiation protection** using six mini-games built on real NASA data.
 
-
 ## How to play
 
 1. Pick a crew role (Commander / Engineer / Life Scientist); each has a small perk.
@@ -22,6 +21,11 @@ The Moon outpost and the Mars outpost use **different mini-games**:
 | Storm | **Storm Watch**: calculate CME arrival hours, shelter drill | **Siren Watch**: place the arrival on a timeline, repeat the airlock code | **DONKI** live CME + flare data |
 | Landing (Moon to Mars) | Choose among 5 real Mars sites on a map | | **Mars Trek** imagery, real lat/lon/elevation |
 | Crew Chat | Rest and learn facts (includes Canadian Space Agency facts) | same | |
+
+# Where to play 
+You can play Voyage Beyond in either of the following ways: 
+1) Vercel: https://voyage-beyond.vercel.app/
+2) Github Pages: https://layalilucia.github.io/Voyage-Beyond/
 
 ## Music and sound
 
