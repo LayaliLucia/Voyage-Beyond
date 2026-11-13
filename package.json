@@ -1,0 +1,11 @@
+{
+  "name": "voyage-beyond",
+  "version": "1.0.0",
+  "description": "Voyage Beyond - a pixel-art space survival adventure for kids aged 7-12, powered by real NASA data.",
+  "private": true,
+  "scripts": {
+    "start": "npx --yes serve .",
+    "fetch-data": "node scripts/fetch-nasa-data.mjs"
+  },
+  "license": "MIT"
+}
